@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Christopher Gasq, développeur en alternance" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/banner.svg" alt="Christopher Gasq, développeur en alternance" width="100%" />
 
-<img src="./assets/card.svg" alt="En ce moment : développeur en alternance chez Stellarr studio" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/card.svg" alt="En ce moment : développeur en alternance chez Stellarr studio" width="100%" />
 
 </div>
 
@@ -13,7 +13,7 @@ Je prépare un BTS SIO en alternance et je travaille comme développeur chez **S
 
 Avant l'informatique, j'ai fait du commerce puis une année en école d'art. J'aime comprendre ce dont les gens ont besoin et le traduire en quelque chose de clair, utile et soigné, que ce soit un écran, une interface ou un jeu.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/divider.svg" width="100%" alt="" />
 
 ## Expérience
 
@@ -31,7 +31,7 @@ Avant l'informatique, j'ai fait du commerce puis une année en école d'art. J'a
 - **École préparatoire d'art**, Solange-Baudoux, Évreux (2020 – 2021)
 - **Bac Pro Commerce**, mention Bien, Sainte-Agnès, Vernon (2017 – 2020)
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/divider.svg" width="100%" alt="" />
 
 ## Outils
 
@@ -49,10 +49,10 @@ Création d'un jeu de société · Art graphique · Photographie · Musique · J
 
 Organisé · Autonome · Créatif · Curieux · Observateur · Logique · Esprit d'équipe · Bonne adaptabilité
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/divider.svg" width="100%" alt="" />
 
 ## Contact
 
 <!-- Ajoute ici un lien LinkedIn ou une adresse e-mail professionnelle -->
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/footer.svg" width="100%" alt="" />
