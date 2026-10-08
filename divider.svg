@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="34" viewBox="0 0 900 34">
+<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9aa9ff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffb8cc" stop-opacity="0.7"/><stop offset="1" stop-color="#9aa9ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="t" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect x="0" y="16.5" width="900" height="1" fill="url(#l)"/>
+<path d="M450,5 Q450,17 462,17 Q450,17 450,29 Q450,17 438,17 Q450,17 450,5Z" fill="#ffe3ee" opacity="0.9"><animate attributeName="opacity" values="0;1;0" dur="5s" begin="-0s" repeatCount="indefinite"/></path>
+<g><animateMotion dur="7s" repeatCount="indefinite" path="M-60,6 L960,28" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"/><g opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.55;0.6;1" dur="7s" repeatCount="indefinite"/>
+<path d="M0,-1.4 L70,0 L0,1.4Z" fill="url(#t)" transform="rotate(181.2)"/><circle r="1.8" fill="#fff"/></g></g>
+</svg>
