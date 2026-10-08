@@ -38,11 +38,11 @@ Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr stud
 | 2020 – 2021 | **École préparatoire d'art** | Solange-Baudoux, Évreux |
 | 2017 – 2020 | **Bac pro Commerce**, mention Bien | Sainte-Agnès, Vernon |
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-divider.svg" alt="" width="100%" />
 
 ## Outils
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-inventory.svg" alt="Inventaire : Photoshop, Illustrator, Procreate, Open Office, Visual Studio, TypeScript" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-inventory.svg" alt="Inventaire : Photoshop, Illustrator, Procreate, Open Office, Visual Studio, TypeScript" width="100%" />
 
 - **Création** : Photoshop, Illustrator, Procreate
 - **Bureautique** : Open Office
@@ -73,7 +73,7 @@ Organisé · Autonome · Créatif · Curieux · Observateur · Logique · Esprit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-footer.svg" alt="Merci de votre visite. À très vite." width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-footer.svg" alt="Merci de votre visite. À très vite." width="100%" />
 
 <sub>Décor, voyageur et animations dessinés en pixel art, dans l'esprit des jeux d'action gothiques 8 et 16 bits. Tous les éléments sont originaux.</sub>
 
