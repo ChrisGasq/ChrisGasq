@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-banner.svg" alt="Christopher Gasq, développeur en alternance chez Stellarr studio, dans un décor de château gothique sous la pluie" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-banner.svg" alt="Christopher Gasq, développeur en alternance chez Stellarr studio, dans un décor de château gothique sous la pluie" width="100%" />
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-card.svg" alt="Statut : développeur en alternance chez Stellarr studio depuis le 1er septembre, BTS SIO, Feneu 49460" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-card.svg" alt="Statut : développeur en alternance chez Stellarr studio depuis le 1er septembre, BTS SIO, Feneu 49460" width="100%" />
 
-<a href="https://www.linkedin.com/in/christopher-gasq/"><img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-linkedin.svg" alt="Profil LinkedIn de Christopher Gasq" width="360" /></a>
+<a href="https://www.linkedin.com/in/christopher-gasq/"><img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-linkedin.svg" alt="Profil LinkedIn de Christopher Gasq" width="360" /></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-divider.svg" alt="" width="100%" />
 
 ## À propos
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-dialog.svg" alt="Christopher se présente : BTS SIO en alternance, développeur chez Stellarr studio depuis le 1er septembre, après le commerce et une année d'art" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-dialog.svg" alt="Christopher se présente : BTS SIO en alternance, développeur chez Stellarr studio depuis le 1er septembre, après le commerce et une année d'art" width="100%" />
 
 Avant l'informatique, j'ai fait un bac pro Commerce, puis une année en école préparatoire d'art. J'ai fini par choisir le développement, qui réunit ce que j'aime : la logique d'un côté, la création de l'autre.
 
 Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr studio**, en parallèle de mon BTS SIO (une semaine en cours, une semaine en entreprise).
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-divider.svg" alt="" width="100%" />
 
 ## Expérience
 
