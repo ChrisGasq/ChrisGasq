@@ -63,7 +63,7 @@ Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr stud
 
 Organisé · Autonome · Créatif · Curieux · Observateur · Logique · Esprit d'équipe · Bonne adaptabilité
 
-<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/castle-divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-divider.svg" alt="" width="100%" />
 
 ## Contact
 
