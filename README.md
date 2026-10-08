@@ -18,7 +18,7 @@ Avant l'informatique, j'ai fait du commerce puis une année en école d'art. J'a
 | Période | Poste | Lieu |
 | --- | --- | --- |
 | Depuis le 01/09 | **Développeur en alternance** | Stellarr studio |
-| Depuis 10/2025 | **Conseiller client** | CELIO, Espace Anjou |
+| 10/2025 – 08/2026| **Conseiller client** | CELIO, Espace Anjou |
 | 10/2024 – 02/2025 | **Conseiller client, préparation de commandes** | Maisons du Monde, Évreux |
 | 11/2023 – 01/2024 | **Mise en avant des produits** | Intermarché, Évreux |
 | 11/2021 – 02/2023 | **Conseiller client, animation jeux et art** | Cultura, Évreux |
