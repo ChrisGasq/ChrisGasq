@@ -24,7 +24,7 @@ Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr stud
 
 | Période | Entreprise | Poste |
 | --- | --- | --- |
-| Depuis le 1er septembre | **Stellarr studio** | Développeur en alternance |
+| Depuis le 01/09/2026 | **Stellarr studio** | Développeur en alternance |
 | 10/2025 – 08/2026 | **CELIO**, Espace Anjou | Conseil client, réponses aux demandes rapides, prise d'appels, gestion des conflits |
 | 10/2024 – 02/2025 | **Maisons du Monde**, Évreux | Conseil client, préparation de commandes, mise en avant des produits |
 | 11/2023 – 01/2024 | **Intermarché**, Évreux | Mise en avant des produits |
