@@ -46,7 +46,7 @@ Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr stud
 
 - **Création** : Photoshop, Illustrator, Procreate
 - **Bureautique** : Open Office
-- **Développement** : Visual Studio, TypeScript, notions d'IA
+- **Développement** : Moon Ai, Claude Code, Visual Studio, Codex
 - **Langue** : anglais, niveau intermédiaire
 
 ## Projet
