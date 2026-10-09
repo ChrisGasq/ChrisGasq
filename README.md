@@ -34,7 +34,7 @@ Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr stud
 
 | Année | Diplôme ou formation | Établissement |
 | --- | --- | --- |
-| En cours | **BTS SIO**, en alternance (1 semaine / 1 semaine) | |
+| En cours | **BTS SIO**, en alternance (1 semaine / 1 semaine) | My-Digital-School, Angers |
 | 2020 – 2021 | **École préparatoire d'art** | Solange-Baudoux, Évreux |
 | 2017 – 2020 | **Bac pro Commerce**, mention Bien | Sainte-Agnès, Vernon |
 
