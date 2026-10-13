@@ -16,7 +16,7 @@
 
 Avant l'informatique, j'ai fait un bac pro Commerce, puis une année en école préparatoire d'art. J'ai fini par choisir le développement, qui réunit ce que j'aime : la logique d'un côté, la création de l'autre.
 
-Depuis le 1er septembre, je suis **développeur en alternance chez Stellarr studio**, en parallèle de mon BTS SIO (une semaine en cours, une semaine en entreprise).
+Depuis le 1er septembre, je suis **développeur full stack en alternance chez Stellarr studio**, en parallèle de mon BTS SIO (une semaine en cours, une semaine en entreprise).
 
 <img src="https://raw.githubusercontent.com/ChrisGasq/ChrisGasq/main/assets/castle-divider.svg" alt="" width="100%" />
 
